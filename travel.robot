@@ -1,3 +1,6 @@
+
+TODO: Corrigir esse código inicial completamente, antes de estrutura-lo e deixá-lo bem organizado.
+
 *** Settings ***
 Library  SeleniumLibrary
 
